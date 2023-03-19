@@ -1,4 +1,4 @@
-# Concurrent programming - TestProgram
+# Concurrent programming
 
 ## Working Group
 
